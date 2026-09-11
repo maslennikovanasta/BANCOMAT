@@ -1,0 +1,4 @@
+﻿  BankomatATM4.cpp
+C:\Users\Anastasia\source\repos\BankomatATM4\BankomatATM4.cpp(120,25): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+C:\Users\Anastasia\source\repos\BankomatATM4\BankomatATM4.cpp(141,22): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  BankomatATM4.vcxproj -> C:\Users\Anastasia\source\repos\BankomatATM4\x64\Debug\BankomatATM4.exe
